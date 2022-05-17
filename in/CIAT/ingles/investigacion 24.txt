@@ -1,0 +1,67 @@
+Our scientists have been conducting cutting-edge research at the nexus of agriculture, nutrition and environment for decades. Last year, widespread recognition of the climate crisis and threats to biodiversity made this work more relevant than ever before. Read on for examples of solutions and success stories from our scientists in 2019.For healthy and productive agricultural environments, we need a landscape approach that identifies and builds on the interdependencies between agricultural production, ecosystem services, governance, and human wellbeing. The Alliance’s 2019 work in sustainable agriculture and landscape management and restoration took us around the Global South, from restoring degraded landscapes in Africa to supporting green businesses in the Amazon. Our researchers conducted new research on land restoration, delved into the essential role of gender in restoring landscapes, and contributed to the Intergovernmental Panel on Climate Change’s landmark report on climate change and land.
+
+The Alliance also raised awareness on the interdependencies between food production, biodiversity, and both human and environmental health. This resulted in a proposal supported by the CGIAR Research Program on Water, Land and Ecosystems (WLE), adopted by the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) to assess the Nexus on Biodiversity, Food, Health, and Water. Also, the Alliance’s contribution to the EAT-Lancet Report and to the 2019 Report of the FABLE Consortium assessed how far countries are in terms of achieving their targets for sustainable land use and food systems.Usually, to find a better crop variety, a few researchers measure a whole lot of varieties in a few places. A new approach from Bioversity International turns the standard agricultural trial on its head. Hundreds of farmers trial a few varieties each.
+
+In 2011, Bioversity International scientist Jacob van Etten, inspired by examples of citizen science around the world, shared his ideas for a better way to research crop improvement. Rather than a few trials of hundreds of varieties, how about hundreds of trials of a few varieties each? And rather than a few scientists and technicians conducting the trials, how about working with the hordes of farmers who would ultimately decide whether to adopt the improved varieties? Five years later, that novel approach has borne fruit in the form of increased yields and greater food security as part of Bioversity International’s Seeds for Needs initiative in East Africa, India and Latin America.
+
+
+The approach relies on the wisdom of crowds and some statistical analysis. Each farmer carries out a very simple experiment. They plant three varieties, assigned at random. As the plants grow, and when the time comes to gather, process and eat the harvest, they judge the varieties on a set of characteristics. Which is best? Which is worst? The technique is called ‘tricot’, for triadic comparison of technologies, because each farmer assesses three options.
+
+Using the tricot technique, a group of farmers between them might assess ten different varieties. The researchers then take each farmer’s assessment of their three varieties and plug them into a statistical tool that reveals how all ten varieties differ among themselves in the different traits.
+
+Not only does this provide valuable information from the most relevant test environment – the actual farmers’ fields – it also brings the farmers in as participating partners, giving them a stake in the research and the results, and encouraging them to act on the results they obtain.
+
+
+Turning the original idea into a process that works on the ground was a lot of work for the multi-country team of Bioversity International scientists. One crucial element is a software program called ClimMob, which enables researchers to create the random sets of three that will ensure all the options are covered.
+
+ClimMob also makes it easy to collect and analyze the farmers’ data. During 2016 the researchers created a series of training videos to help NGOs and others to use ClimMob. They also conducted workshops to present the tricot technique and ClimMob to agricultural professionals in Latin America, India and Ethiopia. Bioversity International gained valuable feedback that improved ClimMob, while the researchers were enthusiastic about the new tool.
+
+One of the great strengths of tricot and ClimMob is that they make it relatively easy to collect large quantities of data in a single cropping season. For example, networks of robust weather stations can be set up to record daily information in the actual fields where the varieties are growing. This can give researchers unprecedented amounts of information about how each variety responds to environmental variables, making it possible to give farmers much better advice.
+
+Even though the approach is already producing new insights for farmers and researchers, the work has not finished yet. Jacob van Etten bubbles with ideas. Farmers could give their answers via mobile phone; press 1 if you think variety A was better. Variety trials could be distributed by seed dealers; take part in this study for a discount on seeds next season. And of course tricot technology could be extended to other agricultural technologies besides crop varieties, such as fertilizers and other inputs or even post-harvest processes, like harvest storage or cooking and nutrition.
+
+As van Etten says, “Tricot is a promising approach, and some of its benefits are already evident. But it is also evident that there is still a lot more it could offer.”
+
+ A new study of durum wheat varieties in Ethiopia, shows the value of including farmer evaluations based on traditional knowledge into crop breeding practices. 
+
+A new paper, co-authored by scientists from Bioversity International, the Scuola Superiore Sant'Anna, and the University of Bologna, Italy, and the Mekelle University and Amhara Regional Agricultural Research Institute, Ethiopia, outlines a study in which two smallholder communities in the Ethiopian Highlands evaluated 400 Ethiopian wheat varieties.
+
+With climate change, increasing land degradation and global population, business as usual is no longer an option when it comes to farming. The Intergovernmental Panel on Climate Change (IPCC) predicts that climate change will reduce agricultural production by 2% while demand increases by 14% every decade until 2050. For a country like Ethiopia, the biggest producer of wheat in sub-Saharan Africa, and where 80% of the population is involved in farming, finding varieties of wheat able to grow in the changing conditions is vital for food security.
+
+While modern breeding methods have shaped the crops we grow, including today’s increasingly sophisticated methods such as genome sequencing and gene mapping, these methods are now being mixed with traditional farmers’ knowledge to come up with a diverse recipe for climate change adaption.
+
+Smallholder farmers have been selecting new crop varieties since the invention of agriculture 10,000 years ago. The sum of their choices constitutes the agricultural biodiversity we know today.
+
+Participatory plant breeding that uses farmers' knowledge and experience throughout the breeding process has been implemented for many years and in a number of countries, and can be an effective approach to develop more productive and better adapted varieties. Yet the advent of modern breeding made it very difficult for farmers to be involved in producing better varieties. The urgency of speeding up the process of developing more productive, widely-adapted varieties, also meant that participatory plant breeding became increasingly marginalized, considered only valuable to produce results that have only local relevance. What is often overlooked is that the varieties need to address the needs of the farmers as they ultimately are the ones who will plant and tend them.
+
+A new paper from a study carried out by scientists from Italy and Ethiopia* shows that it is possible to bring participatory approaches, genomics, and quantitative genetics together to trace the genetic basis of smallholder farmer preferences of durum wheat traits.
+
+Durum wheat varieties growing in trial plots in Amhara Region, Ethiopia. They are being tested by farmers to see how they perform under the changing climatic conditions. Credit: Bioversity InternationalScientists asked farmers from two communities in the Ethiopian Highlands to evaluate 400 Ethiopian wheat varieties. They then used that information to map farmers’ preferences to the genome. The results are the first evidence that farmers’ knowledge can be used to detect areas in the genome for the traits under investigation, and therefore it can be used even in modern molecular-based breeding. Farmers’ evaluations potentially provide the same genomic targets as metric measurements of phenotypes, and could also detect additional ones.
+
+According to Dr Carlo Fadda, Senior Scientist, Bioversity International, who is one of the authors of the paper, this is a breakthrough in breeding science. “Showing how farmers’ knowledge can be mapped in the genome of durum wheat is an extraordinary finding which will be hopefully replicated for other crops and other breeding efforts to ensure that full potential of farmers’ knowledge is captured by those efforts,” he commented.
+
+Yosef Gebrehawary Kidane, another co-author of the paper, commented that “This study shows the value of exploring the genetic base of crop varieties using this unique approach that includes farmer evaluations based on traditional knowledge.”
+
+Read the paper: Genome Wide Association Study to Identify the Genetic Base of Smallholder Farmer Preferences of Durum Wheat Traits
+
+Partners
+This work is funded by the Doctoral Programme in Agrobiodiversity at the Scuola Superiore Sant'Anna, Pisa, Italy, and by Bioversity International. This research is part of the CGIAR Research Program on Climate Change, Agriculture and Food Security (CCAFS) and is supported by CGIAR Fund Donors.
+
+*The research was carried out in partnership with the Scuola Superiore Sant'Anna, Mekelle University, the Amhara Regional Agricultural Research Institute, and the University of Bologna.In May, Bioversity International signed a Technical Cooperation Agreement with the Ministry of Agriculture of Costa Rica in Turrialba. The agreement will enhance knowledge, information management, agricultural extension and public-private partnerships to enable farmers to cope with extreme weather events and attain food and nutrition security in the country.
+
+Climate change is one of the greatest environmental threats facing humanity. In Costa Rica, due to its geographical position, the effects of climate change are having an increasingly serious impact on economic activities and human safety. Agricultural production in particular is being adversely affected, for example, through periods of both drought and excessive rain. This means that new agricultural approaches are needed that take into account the variables of a changing climate.
+
+This agreement initiates a relationship in which the agricultural sector, and especially farmers, will receive direct benefits through participatory research and methods according to their needs. This means that they will develop their capacity to make informed decisions on what genetic materials would be more appropriate to grow in terms of its resilience to their specific conditions.
+
+"One of the topics we will be working on with our partners will be studies about the damage produced by different climate events and formulation of strategies to be adapting the agriculture” explains Dr. Jacob van Etten – the Bioversity International Costa Rica Office coordinator. “Usually there is an immediate response in giving support and aid to farmers when a climatic event happens, but a strong long-term plan is urgently required due that these events are becoming more frequent".
+
+Signing the MOU agreement in Costa Rica, May 2016.The signing of the 'Agricultural Biodiversity, Agro-Environment and Diffusion Mechanisms' agreement took place in the campus of the Agricultural Research and Higher Education Center (CATIE). Attendees included Dr. Felipe Arauz, the Minister of Agriculture and Livestock of the Government of Costa Rica; the Bioversity International Costa Rica team; Dr. Carlos Araya Fernández, the Executive Director of the National Institute of Innovation and Transfer Agricultural Technology (INTA); and Dr. Muhammad Ibrahim, the Director General of CATIE. 
+
+The applied scientific knowledge and best practices which will be developed in cooperation with Costa Rican institutions and private stakeholders will strengthen the agricultural sector in the country.
+
+For more information, contact:
+Jacob van Etten
+
+Bioversity International has worked in Costa Rica since 2006.
+Find out more about our work in Costa Rica
+

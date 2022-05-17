@@ -1,0 +1,270 @@
+New research at CIAT, using “next-generation
+RAD sequencing” (the latest approach to
+large-scale or “high-throughput” genome
+sequencing), provides strong molecular evidence
+that cassava was domesticated in central Brazil.
+It further suggests that varieties from the crop’s
+primeval population then spread north and
+south.
+The results of clustering analysis indicate that
+this process gave rise to five relatively welldefined subpopulations. Three of them are
+spread across large areas of South America: the
+Chaco region, Amazon River Basin, and Brazilian
+coast. The others are concentrated in smaller
+areas of two zones: the Andean Region and the
+Caribbean coast of Mesoamerica.
+“Each of the subpopulations we identified
+harbors genetic diversity for traits developed in
+places where cassava was adapted to human
+needs and environmental conditions,” said
+Becerra. “Our challenge now is to identify links
+between phenotypes possessing useful traits and
+the underlying genetic structure, so we can make
+smarter use of cassava’s global genetic diversity
+in crop improvement.”
+“This new study illustrates extremely well how
+fast crop improvement at CIAT is moving toward
+genomics-based precision breeding, in line with the Center’s new strategy,” said Joe Tohme,
+director of the Center’s Agrobiodiversity
+Research Area.
+For cassava, the shift began in 2012 with a major
+new initiative to conduct next-generation RAD
+sequencing for all of the approximately
+6,000 varieties conserved in the CIAT genebank.
+This collection likely represents most of the
+crop’s global genetic diversity. Jointly
+coordinated by CIAT and the Beijing Genomics
+Institute, the sequencing initiative garnered
+support from public and private sources in China
+and Japan.
+A bioinformatics pipeline
+Once next-generation RAD sequencing was
+underway, CIAT researchers next turned their
+attention to building a “bioinformatics pipeline.”
+This refers to the combination of software tools
+and procedures required for managing efficiently
+massive amounts of sequencing data.
+Using the pipeline involved, first, the selection of
+292 cassava landraces and experimental varieties
+plus 54 samples of wild species related to the
+crop. These constitute a geographically
+representative sample of the 1,255 genotypes
+from CIAT’s cassava collection that have been
+sequenced so far. Researchers then genetically
+mapped the whole sample of genotypes to align
+the sequenced DNA fragments (or “sequence
+reads”) with a cassava “reference genome” – a
+sort of first-draft genome, which US scientists
+had completed in 2009.
+The next steps included “data filtering” and “SNP
+and genotype calling,” procedures that measure
+variation among the sequence reads. With the
+resulting data, CIAT scientists identified large
+numbers of SNPs (single-nucleotide
+polymorphisms), which can be used for markerassisted breeding, gene mapping, and the kind
+of population genetics analysis described above.
+The sequencing data also enabled our
+researchers to identify a core set of the “most
+informative SNPs,” which permit rapid and
+accurate identification of cassava samples
+through a process called DNA “fingerprinting” or
+“barcoding.”
+“In addition to facilitating crop improvement, the
+SNPs can help advance our aim of building a
+digital genomic inventory of CIAT’s entire
+collection of cassava genetic resources,” said
+Tohme. “This is essential for realizing our aim of
+creating a novel genebank, which shares not
+only seed but the information that is vital for
+unlocking its potential.Every 4 years, experts from around the world
+gather for a meeting of the InterDrought
+Consortium, which you might think of as a kind
+of drought Olympics. The metaphor seems
+especially apt when you consider that Olympia,
+the site of the original games in ancient Greece,
+is a pretty dry place.
+Instead of competing with one another and
+giving out medals, though, InterDrought
+participants talk about challenges and progress
+in alleviating an age-old scourge of food
+production, which is getting much worse now as
+a result of climate change. In the 2013
+conference – held at Perth, Australia (another dry
+place) – Steve Beebe, who captains the CIAT’s
+bean research team, carried the flag for this
+world-class, nutritionally rich grain legume.
+An excellent track record
+In their efforts to beat drought, CIAT’s bean
+scientists and their partners have scored a
+number of major victories in recent years. Two
+drought-tolerant bean varieties were released
+recently in Rwanda and three in Malawi (following
+the release of such a variety in Nicaragua several
+years ago), while others have been proposed for
+release in Ethiopia and Kenya.
+But at the meeting in Perth, Beebe suggested
+that recent, hard-won gains are not enough. A
+In search of Nike beans
+definitive triumph over drought in tropical bean
+crops requires redoubled efforts to deal with the
+complex interactions between stresses.
+“According to recent on-farm experience in
+Ethiopia and Nicaragua,” Beebe said, “low soil
+fertility diminishes the expression of drought
+tolerance, so we need to focus on combining
+tolerance to both these stresses plus other key
+traits.”
+An estimated 80% of bean production in Central
+Africa is subject to soil phosphorus deficiency,
+while for Eastern Africa, the figure is 65%. That’s
+why African colleagues attending the InterDrought
+meeting showed a keen interest in Beebe’s
+message. Modeling studies suggest that in Africa
+and other regions where infertile soils are
+common (and farmers can’t afford to apply much
+fertilizer), increased drought resulting from climate
+change will have disastrous effects on bean yields.
+Training for the biathlon
+Part of what makes the common bean less
+resilient than other staple foods under tough
+conditions is what Beebe called its “privileged
+evolutionary background.” The wild ancestor of
+bean originated in a mid-altitude forest
+environment of tropical America that is
+characterized by moderate temperatures and
+organic soils rich in nutrients.But by tapping the rich genetic diversity of
+beans, CIAT scientists have succeeded in
+identifying and using certain traits in the roots
+and shoots that contribute to drought tolerance.
+This accounts for the breeding successes
+presented at the InterDrought Conference. At the
+same time, our scientists have developed bean
+lines that perform well under low soil
+phosphorus.
+Building on these and other recent advances,
+CIAT researchers have helped devise a strategy
+for developing tolerance to multiple physical
+stresses in beans and other grain legumes, like
+soybean. They are pursuing this strategy through
+the CGIAR Research Program on Grain
+Legumes, which offers the opportunity to
+compare and share successful approaches
+across crops.
+The new strategy combines a variety of
+innovative techniques. One involves genomicsbased breeding, guided by a thorough
+understanding of adaptive mechanisms and their
+genetic basis. Another consists of crossing
+common bean with related species adapted to
+desert conditions. The scientists aim to win what
+amounts to a plant genetic biathlon – finding
+ways to get the upper hand on drought and at
+the same time low soil phosphorus.Crop scientists have discovered a gene in rice
+that could significantly improve its tolerance to
+drought. The DEEPER ROOTING 1 (DRO1) gene
+makes the roots of rice plants grow downwards
+instead of outwards, enabling them to reach water
+held deeper in the soil. This means that even
+under conditions of extreme water stress, plants
+with DRO1 can continue to grow and produce
+grain.
+The findings were published in Nature
+Genetics by an international team1
+ that is led by
+Japan’s National Institute of Agrobiological
+Sciences (NIAS) and includes scientists from
+CIAT. This work contributes to the CGIAR
+Research Program on Rice, known as the Global
+Rice Science Partnership (GRiSP).
+A better way to deal with stress
+Rice feeds around half of the global population,
+and production must increase by around 40% in
+order to meet expected demand in 2050. Yet,
+each year drought affects some 23 million
+hectares of rainfed rice in South and Southeast
+Asia alone. In parts of India, water scarcity can cut
+rice yields by more than a third, equal to losses of
+US$800 million annually. Water scarcity is
+expected to increase as a result of climate change
+together with increased demand for water for
+industrial and urban use.Scientists crossbred the high-yielding but shortrooted and drought-prone commercial rice variety,
+IR64, with a deep-rooting upland rice variety from
+the Philippines, called Kinandang Patong. While
+IR64 already contains the DRO1 gene, the plant
+cannot produce the necessary proteins that enable
+the gene to function effectively. Through
+conventional breeding techniques, the scientists
+combined the high yields of IR64 with the fully
+functional DRO1 gene in Kinandang Patong.
+The roots of the resulting plants were able to
+reach more than twice as deep as those of IR64.
+When tested under simulated conditions of
+moderate drought, IR64 yields slumped by almost
+60%, while the crossbreeds suffered only a 10%
+yield loss. Under extreme drought, IR64
+completely failed, but the new rice plants
+continued to produce grain – about 30% of the
+yield of unstressed rice plants growing in normal
+conditions.
+The scientists also found that the DRO1 gene
+appears to only change the angle of root growth
+and slightly increase the length of the root tips
+rather than the overall root density, meaning
+energy is not diverted away from the production
+of grain.One of the world’s most ambitious national
+efforts to confront climate change in agriculture
+got underway last year in Colombia and already
+shows promise as a successful model for other
+countries. Launched under a scientific
+partnership that unites CIAT with the Ministry of
+Agriculture and Rural Development (MADR), the
+initiative also brings together farmer
+associations, universities, nongovernment
+organizations, and research institutes.
+“This project has put Colombia at the cutting
+edge of global efforts to adapt agriculture in the
+face of climate change,” said Andy Jarvis,
+director of CIAT’s Decision and Policy Analysis
+(DAPA) Research Area and leader for climate
+change adaptation with the CGIAR Research
+Program on Climate Change, Agriculture and
+Food Security (CCAFS). “This work is already
+proving to be a successful case, which can be
+replicated in any other country of Latin America.”
+Climate change is expected to have significant
+impacts on Colombia’s agriculture, which
+employs 21% of the nation’s workforce and
+accounts for more than a tenth of its gross
+domestic product. In a major effort to curb these
+impacts, the project is pursuing four lines of
+action: (1) climate forecasting and modeling,
+(2) improved technologies for adaptation of
+high-priority crops, (3) site-specific agriculture,
+Climate-smart solutions – Made in Colombia
+and (4) environmentally sustainable production
+systems.
+Better decisions for better production
+The cornerstone for any effort to develop
+effective adaptive measures is an effective
+system for making periodic climate forecasts. To
+this end, CIAT and MADR are drawing on
+successful experience in Senegal to develop a
+tool for predicting short-term climate variation
+and its effects on particular crops, aimed at
+supporting the decisions and recommendations
+of farmers associations. At the same time, the
+project is simulating longer term, fine-scale
+projections of climate change impacts on
+different crops and regions to provide scientists
+and government decision-makers with a firm
+basis for adaptation planning.
+“We hope this pilot project in Colombia will
+repeat Senegal’s success in motivating farmers
+to incorporate climate information into their
+decisions, so they can not only protect but
+increase their production,” said Patricia Guzmán,
+assistant technical manager for Colombia’s
+National Rice Growers Association (Fedearroz).
+New crop varieties that are disease resistant and
+tolerant to drought and high temperatures are
+critical for bolstering the current and future food
+

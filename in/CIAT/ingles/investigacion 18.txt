@@ -1,0 +1,276 @@
+Several adoption models have been developed to explain the dynamics behind the uptake of new technologies in
+food-production systems. However, the literature has yet to consider a range of external forces that affect
+farmers’ decision-making processes. We argue that climate change and institutions are latent explanatory variables that require attention in the literature on aquatic-based innovations. Our aim is to conduct an ex-ante
+analysis focusing on these two external forces in the context of aquaculture and the adoption of aquaponics
+technology in Colombia. We use an embedded case-study design incorporating a qualitative and exploratory
+approach and employ two categories of fish-farming production systems as units of analysis. We triangulate our
+findings using non-probability sampling techniques and use our findings as a benchmark to discuss the potential
+adoption of aquaponics technology. Our findings suggest that fluctuations in rainfall and drought are the most
+important climate variables influencing negatively fish farming activities. Furthermore, we find that the complex
+institutional structures involved create unequal informal mechanisms among fish-farming production systems.
+We argue for context-specific designs when considering the adoption of aquaponics and conclude that, while fishfarming production systems encounter these external forces differently, heterogeneity also exists within systems,
+revealing intricacies worth considering. The term ‘innovation’ has been widely used as a constellation of
+processes, technologies, and ideas that are new or unknown to people in
+a distinct area or social system (Rogers, 1983). Recent studies show that
+innovations are urgently needed to address sustainability challenges in
+food-production systems (IPCC, 2018; Porter et al., 2014). Technological innovations in particular have attracted a great deal of attention, as
+they represent a promising path to sustainable food production (FAO,
+2014a). Thus, there has been a growing interest in the field of
+innovation-adoption research (Feder and Umali, 1993; Van Oorschot
+et al., 2018).
+Early innovation-adoption research focused primarily on organizational and technical progress based on what we in this paper denote as
+conventional approaches (see e.g., Taherdoost, 2018). Conventional approaches have their roots in the field of information systems, business
+management, and economics. They have guided many researchers
+trying to explain innovation at the firm or individual level and have
+yielded archetypal variables that are consistent with their predictive and
+explanatory intents. As such, several theories and adoption models have
+been developed to unfold the dynamics behind the appropriation of new
+technologies (Taherdoost, 2018; Wisdom et al., 2013).
+A representative example comes from the literature on diffusion and
+innovation, an approach commonly used to explain adoption rates
+among members of a social system (Rogers, 1983). Broadly, this stream
+of literature has sought to clarify an individual’s decision-making process, from gaining knowledge of an innovation to implementation and
+use. This process concerns several factors that have been hypothesized
+to influence the adoption outcome. Overall, factors primarily focus on
+adopters’ characteristics, innovation attributes, and communication
+channels, offering valuable lenses for conceptualizing adoption and the
+entry points by which an innovation will be judged (Rogers, 1983).
+Other predominant models attempt to predict the intention to change
+behavior through cognitive variables, such as subjective norms, perceptions, and attitudes (Ajzen, 1991; Davis, 1989). Typically, these
+models focus on attitudinal and technological aspects to describe the
+relationship between adoption and the perceived usefulness and ease of
+use of an innovation.
+Due to their multidisciplinary nature, conventional approaches have
+been widely applied in the context of agricultural innovations. According to Meijer et al. (2015), scholarship can be said to deal with the
+intrinsic and extrinsic factors that influence the uptake of agricultural
+technologies. Rooted in behavioral theories (see e.g., Ajzen, 1991), the
+literature on intrinsic factors focuses on explaining farmers’
+decision-making processes using cognitive variables, such as perceptions, and affective variables, for example, attitudes (see e.g., Njankoua
+Wandji et al., 2012 and Despotovi´c et al., 2019 respectively). Scholars
+studying extrinsic factors, conversely, employ economic and technology
+acceptance models to explain the appropriation of agricultural technologies through socio-demographic variables, such as income, and
+technological variables, for example, perceived ease of use (Davis, 1989;
+Rogers, 1983).
+Important findings from empirical studies on aquatic-based innovations reveal a series of variables that are fundamental for farmers’
+decision-making (Table 1). Conventionally, researchers use innovation
+or behavioral theories to measure predetermined variables against
+adoption (see e.g., Blythe et al., 2017; Silva et al., 2020). Alternatively,
+researchers design integrated models that incorporate constructs from
+different approaches to develop a more comprehensive picture of the
+multidimensional factors that influence adoption (see e.g., Brugere
+et al., 2020; Joffre et al., 2018, 2017; Kumar et al., 2018; Ndah et al.,
+2011). In this context, some researchers use multivariate analysis or
+regression models to quantify statistically the relationship between a
+dependent variable (e.g., inclination to adopt) and independent variables (e.g., socioeconomic characteristics) (see e.g., Gupta et al., 1998;
+Bosma et al., 2012; Ngoc et al., 2016; Nwaobiala, 2014; Ofuoku et al.,
+2008).
+Most conventional approaches have remained focused on technological attributes and socio-demographic characteristics and are yet to
+shift beyond these factors. These factors, while meaningful for systemic
+analyses, require further empirical inquiry when reviewing site-specific
+socio-technical-ecological considerations. For this reason, it is not the
+purpose of this study to conduct a systemic analysis but rather to
+partially expand the perspectives of the conventional approach by
+exploring the influence of external forces on aquatic-based innovations.
+Thus, we argue that there is a need for conventional approaches to
+engage in a broader dialog and address more thoroughly a range of
+external forces that affect farmers’ decision-making.
+We define external forces1 as those that operate beyond fish-farmers’
+control at the systems and off-farm level. In particular, it is noted that
+the wider socio-ecological systems underpinning the intrinsic and
+extrinsic domains in the aquaculture sector are only treated superficially
+in the existing literature (see e.g., Kumar et al., 2018). Motivated by the
+socio-ecological system literature (Pigford et al., 2018; Vermunt et al.,
+2020), we selected two variables that are relevant to aquatic-based innovations. We focus on climate change and institutions for several
+reasons.
+First, food-production systems are highly dependent on climate
+conditions and institutional structures (Porter et al., 2014). Institutions
+provide credits, inputs, and information to overcome risks (Kassie et al.,
+2013), and climate change influences aquatic organisms’ physiological
+and dietary requirements (Barange et al., 2018; Reid et al., 2019).
+Second, they are two understudied forces that previously have been
+linked to the adoption of agricultural technologies. Although less
+explored in aquatic-based innovations, agricultural studies have This ex-ante analysis is conducted on aquaponics, an experimental
+technology that is for the most part unknown to and has not yet been
+diffused among farmers in the study area. We focus on two pilot systems
+(coupled and decoupled) tested at the research facilities of ACUICA. According to ACUICA personnel, the general design consisted of: i) two fish
+ponds that contained two different Amazonian fish species, respectively
+Pirarucú (Arapaima gigas) and Cachama (Colossoma macropomum) where
+the former was explained as having economic potential and the latter
+represented the most farmed fish in the region; ii) sump and bioreactor
+tanks storing nutrient-rich wastewater and concentrated sludge respectively; iii) vertical hydroponic units arranged in a pyramid shape on a
+stainless-steel frame that supported twenty PVC pipes functioning as
+growth beds (each containing 140 soilless plants); iv) a shared germination station for sprouted seedlings (e.g. pepper, celery, lettuce, tomato, green onion); and (v) a set of electrical pumps, aerators, and pH
+and conductivity sensors to ensure water circulation, optimal oxygen,
+and adequate nutrient content respectively. Furthermore, both systems
+relied on a recycling loop to stock up nutrients from the bioreactor or
+sump tank if the sensors detected low conductivity or pH levels. Likewise, when low nutrient levels were detected in the hydroponic outlet,
+water from the pond was pumped into the sump tank. In turn, the
+contamination loads that would otherwise be released into the natural
+environment were reduced.
+While sharing similarities, the two systems followed different operating principles corresponding to the metabolisms of the different fish
+e pond in an uninterrupted loop (see Fig. 2).
+By contrast, the aquaponic decoupled system worked on demand.
+This meant that the aquaculture and the hydroponic unit were only
+connected when nutrients were required (see Fig. 3). Hence, the hydroponic water outlet was connected by gravity to the sump tank (rather
+than the lake) and was pumped back again towards the growth beds due
+to the high organic load produced by Pirarucú (about sixteen times
+higher than for Cachama).
+According to our expert interviews, the systems just described provide a basis for diversifying farmers’ incomes and ensuring food security. Additionally, they have the potential to create niche markets for
+organic fish and plant production, given consumer and farmers’ opposition to agrochemicals in water from agriculture and mining. However,
+although aquaponics systems were described as “easy to use” and “not
+complex at all”, the learning curve was observed to be steep:
+Mounting the systems and acquiring the materials proved to be a
+time-consuming and expensive exercise. Experts had to negotiate prices,
+navigate the prototypes’ technical specifications, ensure permanent
+surveillance, and install an alternative 24-hour power source to
+compensate for an unreliable energy supply. It was further explained
+that the delayed disbursement of funds to finance the prototypes created
+administrative and operational hurdles. Hence, the sensors and bioreactor tanks in both systems were not fully functional. Furthermore,
+while the aquaculture unit was observed to be compatible with local
+practices, the hydroponic unit required specific expertise in both traditional and modern agriculture (the former implied learning about seed
+germination in soil, the latter about transplanting seedlings to a soilless
+environment). Thus, the experts felt that they “did not have the agronomic
+expertise” to operate the hydroponic unit, despite being fully trained in
+fish-farming techniques. Similarly, biophysical threats, specifically
+intense periods of rain, exposure to the sun, insects, and fluctuating
+temperatures, were also mentioned as ongoing issues. It was observed that all farmers ensured cover
+management using natural vegetation and a cement structure to
+prevent soil erosion in the water canals and pond dikes. Furthermore,
+to avoid the risk of shortages of commercial fish-feed, LSCP famers
+crafted farm-made fish feed from on-site byproducts, such as earthworms from vermiculture, tropical fruit shells, and a mixture of
+probiotics based on sugarcane molasses in the feed pellets. Finally, in
+addition to the diversification of pond species, LSCP farmers placed
+protective nets above the ponds’ surfaces to reduce fingerling
+predation.During intense periods of rain, some farmers were unable to drain their
+fishponds and start the next farming cycle. Consequently, they received
+less income, as the fish did not have enough time to reach an appropriate
+weight for the high season: “For a long time, we have wanted to clean the
+lake, but we can’t because of the rain” (F1). Moreover, farmers
+unanimously agreed that their fish suffered a loss of appetite during
+periods of rain. As one farmer explained, this was due to the low oxygen
+levels, which in turn stressed the fish and reduced their appetite: “[The]
+fingerlings are more susceptible to the change in [temperature], the big ones
+have no problem… [My fish] no longer go out to eat because it’s cold in the
+day and there is little oxygen” (F2). Similarly, another farmer explained
+that the cold-water intake from the water run-off caused abrupt changes
+to the fish ecosystem in the form of a reduction of algae. These combined
+elements created a stressful environment for the fish, affecting their
+immunological systems and leaving them more susceptible to diseases
+like fungi. As one farmer explained: “Cachama is very susceptible to cold
+temperatures, and I should not feed them in cold weather. But if it rains for
+weeks, my animals lose weight and decompensate. My fish have never gotten
+sick like this year, it hit me hard” (F4). Furthermore, during cold periods,
+human diseases were reported to influence farmers’ working capacity,
+that is, the number of workers employed. Also, road damage reduced the
+mobility of paid labor to commute from remote areas that were often
+linked by dirt roads that were difficult to drive on: “The staff does not go
+out to work in the rainy season, and that affects the economy” (F4).
+Third, although less complicated, farmers reported an increase in
+temperatures and severe periods of drought. As a result, except for F2,
+farmers experienced moderate water scarcities, reducing their production and moderating their business plans: “I might want to build another
+pond, but the water capacity is not enough…We have water limitations” (F1).
+Furthermore, one farmer expressed a reluctance to use technologies due
+to the uncertainties of the dry season: “[My system functions] only with
+gravity and naturally. I do not work with technologies because I’m afraid of
+the dry season, rain, and disease. Here the energy supply is very inconsistent,
+and if I use [technologies] in the middle of a shutdown [my production is
+lost]” (F4).
+Farmers were asked if they had adopted any strategies to mitigate the
+impacts of droughts as well as increased intensity and frequency of
+rainfall on their farms. We identified several adaptation strategies and
+organized them into three groups:
+• Fish management. All farmers reported to have diversified their ponds
+with species that required less oxygen and relied more on natural
+feed intakes, such as smaller fish or worms, to mitigate rainfall impacts. Also, the number of fish per square meter (stocking density)
+was deliberately reduced to prevent shocks from low oxygen levels.
+Moreover, antibiotics were used primarily by LSCP farmers to
+manage fish disease outbreak: “We had to lower the levels of the ponds
+and treat the fish. A [medicine] dose of salt and methylene blue or
+formaldehyde is given to us by the extension officers” (F4). Conversely,
+LSCP farmers opted for a wait-and-see approach: “I wait for it to pass
+and let the animals heal on their own” (F2).
+• Water management. Farmers with flooding issues changed the water
+intake and outtake to avert pond overflow: “In some parts [of the
+town] there are floods that destroy the ponds… if there is a lot of water, uaponics is a promising technology compared to conventional
+methods of aquaculture. However, while it is true that, theoretically,
+coupled and decoupled systems represent technological upgrading, evidence of the socioeconomic and environmental impacts varies globally
+(Goddek et al., 2015; Yep and Zheng, 2019). Although aquaponics is
+conceived as a sustainable technology by experts, one could argue that
+technological change is not always associated with social improvements.
+Spreading ‘ideal’ technological innovations can exacerbate unequal
+power structures by favoring wealthier individuals and neglecting
+poorer farmers with under-utilized resources (FAO, 2014b; Rogers,
+1983). In the absence of a universal system, the advantages of aquaponics technology should not be generalized too quickly, given that
+LSCP and PCP farmers face different realities. Thus, the pro-innovation
+bias (Abara and Singh, 1993; Rogers, 1983) should be critically
+evaluated.
+Furthermore, while aquaponics decoupled designs appear to be the
+most cautious alternative compared to coupled ones (Lennard and
+Goddek, 2019), the observed system is paradoxically being trialed with
+the riskiest fish species in the region, Pirarucú. Although Pirarucú is an
+appealing candidate due to its fast rate of growth and low respiratory
+requirements, there is little evidence about the species’ behavior in
+captivity, and conventional production is still in the experimental phase
+(Schaefer et al., 2012). According to the standards set by ACUICA,
+Pirarucú production must last around fourteen months to meet market
+demands. Hence, farmers require labor input to manage fish weight at
+harvest, given average weights of 12 kg per fish, and business alliances
+to collect and transport the live fish to processing plants and commercial
+markets. Arguably, the promotion of Pirarucú in aquaponics farming
+does not create the same trade and self-consumption opportunities as
+Cachama among fish-farming production systems.
+Observations and interviews reveal that the impacts of climaterelated events are only mentioned with negative connotations, which
+may imply that fish-farmers’ do not experience any benefits from fluctuating temperature and rainfall patterns. Despite farmers’ apparently
+high exposure to climate variability (Pabon ´ Caicedo, 2012), climate
+impacts were seen as moderate or low. These findings may indicate that
+fish-farming is more resilient than previous research suggests (FAO,
+2014a; Porter et al., 2014). This could be because past research has
+examined fish-farming interchangeably with marine aquaculture and
+fishery activities. Additionally, this may imply that perceived weather
+changes steer farmers’ behavior more than long-term climate data.
+Like Kassie et al. (2013), one could argue that weather changes are
+an explanatory variable driving behavioral change. However, our findings show that adaptation strategies were not materialized collectively.
+Although most farmers reported experiencing water scarcities and falling oxygen levels in their fishponds, adaptation choices were only
+implemented by LSCP farmers. This could partly be explained by their
+access to natural resources, such as water reservoirs, which could play
+an important role in their production. Previous research has shown that
+access to natural resources may influence farmers’ behavior and perceptions (Sander et al., 2016). Since aquaponics production has been
+considered to be of greater value in water- and land-scarce areas
+(Goddek et al., 2019), farmers’ differing access to water reservoirs raises
+questions regarding the competitive advantages of aquaponics among
+production systems.
+Institutions are considered to be one of the most pressing challenges
+in aquaponics development and adoption across countries (Goddek
+et al., 2019; Konig ¨ et al., 2018). Past research points out that technological innovation cannot function in a vacuum and that it relies greatly
+on institutional support (Asayehegn et al., 2017; Gott et al., 2019). Key
+informant interviews reveal an interplay between formal and informal
+institutions in Caqueta. ´ Our findings indicate that the absence of unified
+rules for fish-farming is not experienced equally across all farmers.
+Moreover, the available data indicate that fish-farming production systems move across both the informal and formal spheres. In other words,
+not all LSCP farmers had formal permits, and not all PCP farmers worked
+in the informal economy. This implies that social capital, and thus
+informal institutions (Rauf, 2009), play key roles in fostering structural
+inequalities regardless of farmers’ formal or informal statuses. In this
+regard, differing levels of social capital could be partly attributed to
+LSCP farmers’ financial capacity to hire labor and keep production going
+during off-farm business events. In contrast, the small size of PCP
+farmers’ informal aquaculture networks could explain knowledge obstacles and their greater dependence on extension officers.
+While we propose climate change and institutions as external forces
+that are crucial for adoption, we wish to showcase their importance and
+complementary to the variables employed by conventional approaches.
+In line with Pigford et al. (2018) and Vermunt et al. (2020), we suggest
+rethinking the way the adoption of aquaculture-based innovations is
+conceptualized by developing multi-level theories that expand into the
+broader socio-ecological dimension and underlying mechanisms. Our
+case study reveals that a subset of variables calls for further attention
+within climate change and institutions, such as social capital, formal
+permits, and the perceived changes in temperature and rainfall. Our
+findings are useful for understanding innovation practices and have the
+potential to be applicable to other agricultural products. Our findings
+also suggest that external forces appear to influence adoption behavior
+in the aquaculture sector negatively. However, our ex-ante analysis does
+not claim a cause-effect relationship towards adoption but is rather
+delimited to forecast potential linkages among variables that ex-post
+studies could find relevant to confirm or incorporate into their theoretical models.
+
+

@@ -1,0 +1,132 @@
+About research on Agrobiodiversity in CIAT
+Delivering the next generation of vital crops
+
+Standard crop varieties do not always rise to the challenges of modern agriculture: climate change, nutrition and higher productivity on farms. 
+CIAT develops varieties of common bean, cassava and tropical forages (the plants livestock eat) that are often superior to business-as-usual varieties. 
+Because of the 68,000 samples stored in CIAT’s seed bank, scientists around the world accelerate crop development to improve livelihoods, diets and farm resilience to climate change.
+Using artificial intelligence, scientists created an easy-to-use tool to detect banana diseases and pests. With an average 90 percent success rate in detecting a pest or a disease, the tool can help farmers avoid millions of dollars in losses
+Artificial intelligence-powered tools are rapidly becoming more accessible, including for people in the more remote corners of the globe. This is good news for smallholder farmers, who can use handheld technologies to run their farms more efficiently, linking them to markets, extension workers, satellite images, and climate information. The technology is also becoming a first line of defense against crop diseases and pests that can potentially destroy their harvests.
+A new smartphone tool developed for banana farmers scans plants for signs of five major diseases and one common pest. In testing in Colombia, the Democratic Republic of the Congo, India, Benin, China, and Uganda, the tool provided a 90 percent successful detection rate. This work is a step towards creating a satellite-powered, globally connected network to control disease and pest outbreaks, say the researchers who developed the technology. The findings were published this week in the journal Plant Methods.
+Farmers around the world struggle to defend their crops from pests and diseases,” said Michael Selvaraj, the lead author, who developed the tool with colleagues from Bioversity International in Africa. “There is very little data on banana pests and diseases for low-income countries, but an AI tool such as this one offers an opportunity to improve crop surveillance, fast-track control and mitigation efforts, and help farmers to prevent production losses.”
+Co-authors included researchers from India’s Imayam Institute of Agriculture and Technology (IIAT), and Texas A&M University.
+Bananas are the world’s most popular fruit and with the global population set to reach 10 billion in 2050, pressure is mounting to produce sufficient food. Many countries will continue depending on international trade to ensure their food security. It is estimated that by 2050 developing countries’ net imports of cereals will more than double from 135 million metric tonnes in 2008/09 to 300 million in 2050. An essential staple food for many families, bananas are a crucial source of nutrition and income. However, pests and diseases – Xanthomanas wilt of banana, Fusarium wilt, black leaf streak (or Black sigatoka), to name a few – threaten to damage the fruit. And when a disease outbreak hits, the effects to smallholder livelihoods can be detrimental.
+In the few instances in which losses to the Fusarium Tropical race 4 fungus have been estimated, they amounted to US$121 million in Indonesia, US$253.3 million in Taiwan, and US$14.1 million in Malaysia (Aquino, Bandoles and Lim, 2013). In Africa, where the fungus was first reported in 2013 in a plantation in northern Mozambique, the number of symptomatic plants rose to more than 570,000 in September 2015.
+The tool is built into an app called Tumaini – which means “hope” in Swahili – and is designed to help smallholder banana growers quickly detect a disease or pest and prevent a wide outbreak from happening. The app aims to link them to extension workers to quickly stem the outbreak. It can also upload data to a global system for large-scale monitoring and control. The app’s goal is to facilitate a robust and easily deployable response to support banana farmers in need of crop disease control.
+The overall high accuracy rates obtained while testing the beta version of the app show that Tumaini has what it takes to become a very useful early disease and pest detection tool,” said Guy Blomme, from Bioversity International. “It has great potential for eventual integration into a fully automated mobile app that integrates drone and satellite imagery to help millions of banana farmers in low-income countries have just-in-time access to information on crop diseases.
+Deep learning Rapid improvements in image-recognition technology made the Tumaini app possible. To build it, researchers uploaded 20,000 images that depicted various visible banana disease and pest symptoms. With this information, the app scans photos of parts of the fruit, bunch, or plant to determine the nature of the disease or pest. It then provides the steps necessary to address the specific disease. In addition, the app also records the data, including geographic location, and feeds it into a larger database.
+Existing crop disease detection models focus primarily on leaf symptoms and can only accurately function when pictures contain detached leaves on a plain background. The novelty in this app is that it can detect symptoms on any part of the crop, and is trained to be capable of reading images of lower quality, inclusive of background noise, like other plants or leaves, to maximize accuracy.
+This is not just an app,” said Selvaraj. “But a tool that contributes to an early warning system that supports farmers directly, enabling better crop protection and development and decision making to address food security.”
+This study, implemented by the Alliance between Bioversity International and the International Center for Tropical Agriculture (CIAT), has shown the potential of cutting-edge technologies such as AI, IoT (Internet of Things), robotics, satellites, cloud computing, and machine learning for the transformation of agriculture and for helping farmers Bioversity International and the CIAT Agrobiodiversity Research Area supported this project with funding and research expertise for field image collection and processing within the framework of the CGIAR Research Program on Roots, Tubers and Bananas (RTB). RTB works globally to harness the untapped potential of those crops in order to improve food security, income and climate change resilience of smallholders, especially women and youth.
+CGIAR is a global research partnership for a food-secure future, dedicated to reducing poverty, enhancing food and nutrition security, and improving natural resources. The origins of over two-thirds of the grains, legumes, fruits, vegetables, and other agricultural crops countries grow and consume can be traced to ancient breadbaskets in distant parts of the world, according to an exhaustive peer-reviewed report published today.The study, covering 151 crops and 177 countries, marks the first time scientists have quantified the level of interconnectedness of national diets and agricultural economies in terms of non- native plants, providing a novel take on the global crop diaspora, and a deeper understanding of how globalization continues to affect what we eat. The findings also have important implications for efforts to make the global food supply more resilient to challenges such as climate change.
+
+“It’s fascinating to see the extent to which so many plants have become synonymous with traditional diets in countries many thousands of miles from where those plants first appeared,” said lead author Colin Khoury of the International Center for Tropical Agriculture (CIAT) and United States Department of Agriculture. “If you’re eating tomatoes in Italy or chillies in Thailand, you’re consuming foods that originated far away, and that have reached those places relatively recently.
+
+“Now we know just how much national diets and agricultural systems everywhere depend on crops that originated in other parts of the world.”
+
+ 
+
+Khoury worked with fellow researchers at CIAT, the Global Crop Diversity Trust, and several universities to complete the study, published today in Proceedings of the Royal Society B.
+
+They analyzed a range of crops central to food supplies (measured in calories, protein, fat, and food weight) and national agricultural production (measured in production quantity, harvested area, and production value) in countries covering 98% of the world’s population.
+
+Each crop was traced back to the world’s 23 “primary regions of diversity”. These are geographic zones where a distinct range of edible plants were domesticated and developed by early farmers thousands of years ago, to become the food crops we know and love today. In recent centuries, migration, colonialism, and trade have resulted in many of these crops being produced and consumed far from their primary regions of diversity, a trend that continues today.
+
+The study found that all countries of the world now rely on “foreign” crops that originated in geographic regions well beyond their borders.
+
+They found, for example, that foods of Mediterranean and West Asian origin dominate diets in the United States. This is due to the preponderance of crops like wheat in bread and pasta, and barley and grapes in beverages like beer and wine.
+
+If you’re eating tomatoes in Italy or chillies in Thailand, you’re consuming foods that originated far away, and that have reached those places relatively recently. Now we know just how much national diets and agricultural systems everywhere depend on crops that originated in other parts of the world.
+
+Colin Khoury
+Crop Diversity Specialist, CIAT and USDA
+
+They also revealed that the United States’ agricultural output and economy are significant beneficiaries of ancient farmers in East Asia, where soybean originated, and Central America and Mexico, where maize (corn) and other important staples were born.
+
+At the same time, the report shows that today places as far afield as Eastern Europe, Argentina, China, East and Southern Africa, India and Southeast Asia all benefit from the use of sunflower oil – an important source of calories and fat whose ancestral home is North America.
+
+In Pacific nations like Australia and New Zealand, close to 100% of diets and agricultural systems are based on “non-native” crops, the study found. The same was true of Indian Ocean Islands. In Madagascar, for example, the most important food crops include rice, cassava, maize, sugarcane, wheat, sweet potatoes, soybean, beans, and bananas, all of which originated elsewhere.
+
+Cambodia, Bangladesh, and Niger, meanwhile, are among the countries least dependent on foreign crops; even so, at least a fifth of their diets is composed of crops that originated in distant regions. Mexico is in the middle-ground due to the continued popularity in local diets of crops like maize and beans, two plants native to the region, alongside sugarcane (with origins in Southeast and South Asia) and wheat.
+
+Malawi, like most countries worldwide, depends on an array of crops from diverse regions. Its typical diet features crops from Central America and Mexico (including maize, cassava, and beans), South and Southeast Asia (sugarcane, rice, and bananas, and plantains), the South and East Mediterranean (wheat), tropical South America (cassava and groundnut), and Andean South America (potatoes and beans).
+
+Hover over this interactive map to see which crops originate in which regions of the world And this one shows just how interconnected we are, region by region, crop by crop. Just roll over the lines and enjoy:
+
+The authors also found that the proportion of non-native food crops in diets and agricultural systems has been steadily increasing over the past 50 years. This is a result of changing dietary preferences, economic development, urbanization, and other factors.
+
+Khoury hopes that a better understanding of our continued connection to the primary regions of crop diversity will help change the way we think about food and farming. “As we’re all deeply connected to other parts of the world, our scientific research, our policies and our institutions need to reflect that,” he continued.
+
+For example, plant breeders working to develop crops that can resist pests and diseases or higher temperatures often look to the broad range of plants and traditional crops in primary regions of diversity as sources of useful traits for crop improvement. But often these habitats are under threat, or conserved plant collections are not easily available
+
+Luigi Guarino of the Global Crop Diversity Trust, a co-author of the paper, agreed: “Traditional crop varieties and their wild relatives found in one small part of the world could potentially be of use all over the world. That means we need to steward them in their natural habitats, and also collect them, conserve them in genebanks, and share widely to help make our food system more resilient. We’ve long recognized this. It’s why we have the International Treaty on PGRFA. But it’s always good to have up-to-date data.”
+
+The authors conclude the paper with a call to action. If the world waits too long to conserve crop diversity, its potential to benefit the world could be lost forever.
+1. Continued investment in genebanks that conserve plant species crucial to global food security
+In order for humanity to continue to benefit from the wide range of wild and farmed plants, these plants need to be comprehensively conserved in genebanks and shared freely across the globe. These resources underpin efforts by plant breeders to develop hardier crops that can help ensure the resilience of our food supply. Investment in public gene banks is also one of the most important ways of ensuring that science responds to the needs of some of the most vulnerable farmers. See how you can support the future of crop conservation and gene discovery. https://cropdiversity.ciat.cgiar.org/
+
+2. Continued investment in the collection of important plant species
+There continue to be large numbers of potentially important wild plant species, and crop varieties, both within and beyond the world’s primary regions of diversity. In many areas their habitats are under threat due to urbanization, deforestation, pollution and conflict. Using cutting edge technologies to pinpoint these habitats, CIAT can contribute to the global effort to help collect and conserve these plants.
+
+3. The future of human diets
+Based on this new study - and recent CIAT research into the globalization of diets - policymakers can benefit enormously from research into how diets will be likely to evolve over the coming decades – and the implications this might have for public health and sustainable food systems.
+
+While technology and data analysis have revolutionized farming in high-income countries, farmers in low-income nations have often been left out. New tools developed by CGIAR centers are narrowing the digital divide for smallholder farmers. These tools are increasingly gaining international notice beyond the field of agriculture, as a recent international award attests.
+
+The 2020 Innovative Applications in Analytics Award (IAAA) was awarded to the International Maize and Wheat Improvement Center (CIMMYT), the Alliance of Bioversity International and CIAT, and the International Institute for Applied Systems Analysis (IIASA). Their tools, which help farmers to increase productivity, use more sustainable practices and access markets, topped bids from international technology companies and universities with projects applied to various fields.
+
+The award from this collaboration highlights the strengths of bringing together our research centers under One CGIAR, It shows that we can collaborate and compete at the highest level when it comes to applying science to global challenges.
+
+Daniel Jiménez
+Leader of the CGIAR Community of Practice on Data-Driven Agronomy, Alliance of Bioversity International and CIAT
+
+CIMMYT, CIAT and the IIASA won with their ‘Integrated Analytics for Sustainable Agriculture in Latin America’ projects. Finalists included projects focused on a wide range of analytics tools used in pricing, optimizing gas transmission, taxi guidance and management of hospital discharges.
+
+
+A farmer in Mexico uses the AgroTutor application in the field. (Photo: Francisco Alarcón/CIMMYT)
+
+“The IAAA award emphasizes novelty and creativity in analytics applications along with real-world impact,” said Pallav Chhaochhria, Director of Equities Trading at Citigroup and co-chair of the IAAA selection committee, during the virtual award ceremony.
+
+The winning submission recognizes groundbreaking data systems and tools by publicly funded researches and field technicians who advise more than 150,000 farmers who participate in MasAgro, CIMMYT’s bilateral collaboration project with Mexico for sustainable maize and wheat production.
+
+The multi-disciplinary team developed a system to track over 500 variables during the growing cycle at each plot monitored. These variables are subsequently analyzed in combination with geographic, weather and market data obtained from open sources of information. Data analysts and researchers mine these databases to find correlations or patterns that help identify limiting factors and the best management practices for each plot.
+
+The resulting analytics feed an application called AgroTutor — available on Android and iOS — which offers free information to farmers, including historic yield potential, local benchmarks, windows of opportunity, recommended agricultural practices and commodity price forecasting.
+
+Although sophistic Although sophisticated data analyses have been used in agriculture before, small and medium-sized farmers have seldom benefited from a combination of systems and tools that offer predictive and prescriptive site-specific analytics, MasAgro and AgroTutor have proven that resource-constrained farmers can benefit from high-end innovative analyses.
+
+What will food systems, agriculture and the environment look like in 2050? Given current trends, there is a range of highly contrasting outcomes
+In one scenario, these bedrocks of society will have continued down their current path and faced significantly greater challenges than they do today.
+
+But 30 years from now, we don’t believe that a global population of almost 10 billion people will be tied to today’s predominant farming practices, food business models, and dietary lifestyles. Things will have changed radically, and for the better.
+
+Through a combination of existential necessity and human ingenuity – embodied by scientists and put into action by individuals, communities, nations, and businesses – food systems a generation from now will guarantee global food and nutritional security. Food systems will be fundamental components of healthy lifestyles, healthy economies, and a healthy planet.
+
+In 2050, agriculture – the place where food systems begin – will no longer be on the wrong side of the digital divide. The sector will be as hyper-connected, efficient, and intelligent as our smog-free cities and our zero-carbon energy networks.
+
+In 30 years, farming practices, food business models and lifestyles will have changed for the better.
+Just-on-time efficiencies that define modern, globalized industries will be commonplace on family farms. Yes, family farms will still exist, but profitable, sustainable, and inclusive community agricultural systems will have relegated the term “subsistence agriculture” to the dustbin of history.
+
+Agriculture, today grouped with land use and deforestation which emits 25 percent of global greenhouse gases, will no longer be a driver of climate change. It will be a key component of global efforts to drawdown atmospheric carbon.
+
+That same need to decarbonize human activity will extend to food systems. This transformation will be driven by local and global markets that demand high-quality, safe, nutritious, and environmentally friendly food, and lead to a significant reduction in the amount of food that goes to waste – which today is estimated to be 30 percent of all food produced.
+
+This vision may sound optimistic. But given what an alternative future looks like – for our diets, our environment, our economies, and our hard-won gains in food security – it’s the only vision we can afford to have.
+
+Attaining it will not be easy but there is a reason we’re firmly headed toward this future. The International Center for Tropical Agriculture (CIAT), Bioversity International, and their hundreds of partners around the globe are already working toward the challenges ahead, as a glimpse at 2018’s highlights shows us.
+
+Transformation requires an increase in sustainable intensification of farming, which will make agricultural landscapes more productive and less of a burden on the planet – and eliminate the need to clear forests for agricultural land. 
+
+In the coming decades, many of climate change’s effects will have already taken hold across breadbaskets everywhere, making the food-production challenge even more urgent. The good news is that rapid action on climate will reduce the extent of these impacts, and mitigation strategies being developed by CIAT and partners are already having positive results.
+
+
+Climate-proofing farms against drought, flood and higher temperatures is one of CIAT’s research priorities, and our scientists and partners have set the stage for rolling out climate-smart agriculture strategies in dozens of countries across the globe. We’re also working on de-risking agriculture to promote the investment needed in the sector.
+
+Changes to business-as-usual practices on farms are a key part of transformation, and youth and women are leading the way – both as drivers of change in the field and on the research front at CIAT and Bioversity International, which will be allied CGIAR research centers next year.
+
+Nutrition and food systems will need to undergo a radical transformation in the coming decades if we are to both increase production and address the multiple, often simultaneous burdens of chronic malnutrition and obesity.  
+
+Agriculture will be a key to drawing down atmospheric carbon. Much of this will be made possible by tapping the power of big data and bringing technology into the field, whether through apps that give stronger decision-making power to farmers or the various tools our scientists use to harness space technology to improve understanding of land use at the community level. 
+
+In the spirit of the United Nation’s Sustainable Development Goal #17 –Partnerships for the Goals – CIAT’s Alliance with Bioversity International will help us achieve this optimistic vision for the future.
+
+As a bigger, stronger organization, the Alliance will help us build upon our shared mission to deliver research-based solutions that harness agricultural biodiversity and sustainably transform food systems to improve people’s lives.
