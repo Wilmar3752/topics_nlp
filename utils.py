@@ -13,14 +13,16 @@ class Utils:
         plt.imshow(wordcloud) 
         # No axis details
         plt.axis("off")
-        plt.show()
+        #plt.show()
         #plt.savefig('./out/' + company +  '/_wordcloud.png')
     
     def plot_line(self,x,y):
         # Set figure size
         plt.plot(x, y)
         plt.xlabel("Num Topics")
-        plt.show()
+        plt.xticks(fontsize=14)
+        plt.yticks(fontsize = 14)
+        #plt.show()
         #Función para encontrar los parametros optimos del modelo k, alpha, beta
     def compute_coherence_values(self,df,corpus, dictionary, k, a, b):
         
@@ -75,6 +77,7 @@ class Utils:
         # iterare through beta values
                 for b in beta:
                     cv = utils.compute_coherence_values(df = data,corpus=corpus, dictionary=dictionary,k=k, a=a, b=b)
+                    print('funcionando')
                     # Save the model results
                     model_results['Topics'].append(k)
                     model_results['Alpha'].append(a)
