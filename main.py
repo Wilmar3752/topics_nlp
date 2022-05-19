@@ -6,11 +6,12 @@ import matplotlib.pyplot as plt
 import gensim
 import numpy as np
 import warnings
-#import pyLDAvis
-#import pyLDAvis.gensim_models
+import pyLDAvis
+import pyLDAvis.gensim_models
 
 
 warnings.simplefilter(action='ignore', category=FutureWarning)
+warnings.simplefilter(action='ignore', category=DeprecationWarning)
 
 def run(company,min_topics,max_topics):
     print("="*32)
@@ -30,7 +31,7 @@ def run(company,min_topics,max_topics):
     wordcloud = utils.general_cloud(data,stop_words)
     utils.plot_cloud(wordcloud)
     plt.savefig('./out/' + company +  '/_wordcloud.png')
-
+    plt.clf()
     print("="*32)
     print("Creando diccionarios")
     print("="*32)
@@ -72,12 +73,13 @@ def run(company,min_topics,max_topics):
     print(coherence_values)
     utils.plot_line(x,coherence_values)
     plt.savefig('./out/' + company +  '/_coherencia.png')
+    plt.clf()
 
     Perplejidad_values=Resultados2["Perplejidad"]
     x = Resultados2["Topics"]
     utils.plot_line(x,Perplejidad_values)
     plt.savefig('./out/' + company +  '/_perplejidad.png')
-
+    plt.clf()
 
     lda_model = gensim.models.LdaMulticore(corpus=corpus,
                                             id2word=dictionary,
@@ -92,13 +94,13 @@ def run(company,min_topics,max_topics):
     print("Exportando LDAvis ")
     print("="*32)
 
-    #p = pyLDAvis.gensim.prepare(lda_model, corpus, dictionary)
-    #pyLDAvis.save_html(p, './out/'+company+'/lda.html')
+    p = pyLDAvis.gensim_models.prepare(lda_model, corpus, dictionary)
+    pyLDAvis.save_html(p, './out/'+company+'/lda.html')
 
     print("="*32)
     print("Características de los tópicos ")
     print("="*32)
-    topicos = lda_model.print_topics(num_words=5, num_topics=3)
+    topicos = lda_model.print_topics(num_words=5, num_topics=k)
     for topico in topicos:
         print(topico)
 
@@ -173,3 +175,4 @@ if __name__ == '__main__':
     else:
         print("Ingrese un valor valido")
         os._exit(os.EX_OK) 
+
