@@ -179,9 +179,6 @@ dependencies:
   - zipp=3.8.0=py310h06a4308_0
   - zlib=1.2.12=h7f8727e_2
   - zstd=1.4.9=haebb681_0
-<<<<<<< HEAD
-prefix: /Users/user/opt/anaconda3
-=======
   - pip:
     - chardet==3.0.4
     - deep-translator==1.8.3
@@ -201,4 +198,3 @@ prefix: /Users/user/opt/anaconda3
     - sniffio==1.2.0
     - soupsieve==2.3.2.post1
 prefix: /home/wilmar3752/anaconda3/envs/nlp
->>>>>>> 2b11de06433676a71bfe2f8e03e8568f2d0b8f32
