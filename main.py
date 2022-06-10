@@ -1,4 +1,5 @@
 from cgi import print_environ
+from textwrap import indent
 from read_files import *
 from utils import Utils
 from wordcloud import WordCloud
@@ -103,7 +104,14 @@ def run(company,min_topics,max_topics):
     topicos = lda_model.print_topics(num_words=5, num_topics=k)
     for topico in topicos:
         print(topico)
+    my_dict = {'Topic_' + str(i): [token for token, score in lda_model.show_topic(i, topn=100)] for i in range(0, lda_model.num_topics)}
+    
+    print("="*32)
+    print("Exportando .csv con palabras por topicos")
+    print("="*32)
 
+    topics = pd.DataFrame.from_dict(my_dict)
+    topics.to_csv("wordsxtopic.csv")
     for i in range(0, k):
         wordcloud = WordCloud(width= 3000, height = 2000, random_state=1, 
                 background_color='salmon', colormap='Pastel1', 
@@ -139,7 +147,7 @@ def run(company,min_topics,max_topics):
     sent_topics_sorteddf_mallet.columns = ['Topic_Num', "Topic_Perc_Contrib", "Keywords", "Text"]
 
     # Show
-    df_dominant_topic.to_csv('./out/'+ company +'/' +'documentos_representativos.csv')
+    sent_topics_sorteddf_mallet.to_csv('./out/'+ company +'/' +'documentos_representativos.csv')
 
     # Número de documentos para cada tópico
     topic_counts = df_topic_sents_keywords['Dominant_Topic'].value_counts()
