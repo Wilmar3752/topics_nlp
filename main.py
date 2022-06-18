@@ -112,6 +112,7 @@ def run(company,min_topics,max_topics):
 
     topics = pd.DataFrame.from_dict(my_dict)
     topics.to_csv("wordsxtopic.csv")
+    
     for i in range(0, k):
         wordcloud = WordCloud(width= 3000, height = 2000, random_state=1, 
                 background_color='salmon', colormap='Pastel1', 
