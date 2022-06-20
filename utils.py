@@ -111,3 +111,26 @@ class Utils:
         contents = pd.Series(texts)
         sent_topics_df = pd.concat([sent_topics_df, contents], axis=1)
         return(sent_topics_df)
+    
+    def jaccard_similarity(self,query, document):
+        intersection = set(query).intersection(set(document))
+        union = set(query).union(set(document))
+        return len(intersection)/len(union)
+    
+    def split_tesauros(self,tesauros):
+        xss =[x.split('_') for x in tesauros['Palabras']]
+        flat_list = [x for xs in xss for x in xs] 
+        tesauro = pd.DataFrame(flat_list,columns = ["Palabras"])
+        tesauro['Palabras'] = tesauro['Palabras'].drop_duplicates()
+        tesauro = tesauro[tesauro['Palabras'].notna()]
+        return(tesauro)
+    
+    def clean_tesauros(self,utils ,tesauros, capacidades):
+        list_cap = []
+        for cap in capacidades:
+            tesauro_cap = tesauros[tesauros['Nom_Tesauro']==cap]
+            tesauro_cap = utils.split_tesauros(tesauro_cap)
+            tesauro_cap['Nom_tesauro'] = cap
+            list_cap.append(tesauro_cap)
+        return(pd.concat(list_cap))
+    

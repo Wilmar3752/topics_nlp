@@ -9,6 +9,9 @@ import numpy as np
 import warnings
 import pyLDAvis
 import pyLDAvis.gensim_models
+import seaborn as sns
+import warnings 
+warnings.filterwarnings("ignore")
 
 
 warnings.simplefilter(action='ignore', category=FutureWarning)
@@ -111,7 +114,34 @@ def run(company,min_topics,max_topics):
     print("="*32)
 
     topics = pd.DataFrame.from_dict(my_dict)
-    topics.to_csv("wordsxtopic.csv")
+    topics.to_csv('./out/'+ company +'/' +"wordsxtopic.csv",index=False)
+    
+    print("="*32)
+    print("Leyendo excel con tesauros")
+    print("="*32)
+    
+    tesauros = pd.read_excel('./in/plantilla_tesauros.xlsx')
+    capacidades = tesauros['Nom_Tesauro'].unique().tolist()
+
+    tesauros = utils.clean_tesauros(utils, tesauros, capacidades)
+    
+    dict_distancias = {}
+    for cap in capacidades:
+
+        dict_distancias[cap]= [utils.jaccard_similarity(topics[topic],tesauros[tesauros['Nom_tesauro']==cap]['Palabras']) for topic in topics.columns]
+        
+    distancias = pd.DataFrame.from_dict(dict_distancias,orient='index',columns= topics.columns).reset_index()
+    distancias2 =  pd.melt(distancias,id_vars= 'index' ,value_vars=topics.columns.tolist(), var_name= 'topico', value_name= 'distancia')
+    
+    print("="*32)
+    print("Exportando grafico y matriz de similaridades")
+    print("="*32)
+    
+    distancias.to_csv('./out/' + company +  '/matriz_distancias.csv', index= False)
+    sns.barplot(x = 'topico', y= 'distancia', hue = 'index', data = distancias2)
+    plt.savefig('./out/' + company +  '/_jaccard_similaridades.png')
+    plt.clf()
+
     
     for i in range(0, k):
         wordcloud = WordCloud(width= 3000, height = 2000, random_state=1, 
