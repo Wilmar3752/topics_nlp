@@ -192,7 +192,7 @@ def run(company,min_topics,max_topics):
 if __name__ == '__main__':
     utils = Utils()
     companys = os.listdir("./in")
-
+    
     
     print("="*32)
     print("como desea hacer el analisis: ")
@@ -206,11 +206,25 @@ if __name__ == '__main__':
     max_topics = input("Ingrese el numero maximo de topocos a evaluar: ")
     if type_run == 1:
         company = input("ingrese el nombre de la empresa: ")
+        path = './out/'+company
+        isExist = os.path.exists(path)
+        if not isExist:
+  
+  # Create a new directory because it does not exist 
+            os.makedirs(path)
+            print("The new directory is created!")
         run(company,min_topics,max_topics)
     elif type_run == 2:    
         for company in companys:
+            path = './out/'+company
+            isExist = os.path.exists(path)
+            if not isExist:
+  
+  # Create a new directory because it does not exist 
+                os.makedirs(path)
+                print("The new directory is created!")
             if company.endswith(".csv") == False:
-                run(company)
+                run(company,min_topics,max_topics)
     else:
         print("Ingrese un valor valido")
         os._exit(os.EX_OK) 
