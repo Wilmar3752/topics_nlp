@@ -78,7 +78,8 @@ def get_data(path) -> pd.DataFrame:
             elif file.endswith(".txt")==True:
                 print("procesando " + file)
                 texto = get_txt(path+dir+"/"+file)
-            if dir == "español":
+            
+            if dir == "espanol":
                 print('Traduciendo...')
                 texto = text_to_eng(texto)
             else: texto 

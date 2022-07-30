@@ -1,0 +1,48 @@
+Recent developments in High Throughput Sequencing (HTS) technologies and bioinformatics, including improved read lengths and genome assemblers allow the reconstruction of complex genomes with unprecedented quality and contiguity. Sugarcane has one of the most complicated genomes among grassess with a haploid length of 1Gbp and a ploidies between 8 and 12. In this work, we present a genome assembly of the Colombian sugarcane hybrid CC 01-1940. Three types of sequencing technologies were combined for this assembly: PacBio long reads, Illumina paired short reads, and Hi-C reads. We achieved a median contig length of 34.94 Mbp and a total genome assembly of 903.2 Mbp. We annotated a total of 63,724 protein coding genes and performed a reconstruction and comparative analysis of the sucrose metabolism pathway. Nucleotide evolution measurements between orthologs with close species suggest that divergence between Saccharum officinarum and Saccharum spontaneum occurred <2 million years ago. Synteny analysis between CC 01-1940 and the S. spontaneum genome confirms the presence of translocation events between the species and a random contribution throughout the entire genome in current sugarcane hybrids. Analysis of RNA-Seq data from leaf and root tissue of contrasting sugarcane genotypes subjected to water stress treatments revealed 17,490 differentially expressed genes, from which 3,633 correspond to genes expressed exclusively in tolerant genotypes. We expect the resources presented here to serve as a source of information to improve the selection processes of new varieties of the breeding programs of sugarcane.univalle
+univalle
+univalle
+univalle
+univalle
+univalle
+univalle
+univalle
+univalle
+univalle
+univalle
+univalle
+univalle
+univalle
+
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
+Universidad del Valle
